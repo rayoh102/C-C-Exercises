@@ -1,1 +1,1 @@
-# C-C-Exercises
+# C and C++ Exercises
